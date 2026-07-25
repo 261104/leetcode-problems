@@ -23,8 +23,11 @@ class Solution:
                         flowers = 0
                 else:
                     flowers = 0
+
             return bouquets >= m
+            
         while left <= right:
+
             mid = (left + right) // 2
 
             if canMake(mid):
@@ -32,6 +35,7 @@ class Solution:
                 right = mid - 1
             else:
                 left = mid + 1
+
         return answer
 
         
