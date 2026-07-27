@@ -90,5 +90,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/261104/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/261104/leetcode-problems/tree/master/0202-happy-number) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/261104/leetcode-problems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
