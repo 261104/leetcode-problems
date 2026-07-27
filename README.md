@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/261104/leetcode-problems/tree/master/0002-add-two-numbers) |
+| [0268-missing-number](https://github.com/261104/leetcode-problems/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/261104/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/261104/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/261104/leetcode-problems/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/261104/leetcode-problems/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/261104/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/261104/leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/261104/leetcode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -49,6 +51,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/261104/leetcode-problems/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/261104/leetcode-problems/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +60,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/261104/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/261104/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/261104/leetcode-problems/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/261104/leetcode-problems/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/261104/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/261104/leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/261104/leetcode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -66,6 +70,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/261104/leetcode-problems/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/261104/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -76,4 +81,8 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/261104/leetcode-problems/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/261104/leetcode-problems/tree/master/0176-second-highest-salary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/261104/leetcode-problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
