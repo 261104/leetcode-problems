@@ -41,6 +41,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/261104/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/261104/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/261104/leetcode-problems/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/261104/leetcode-problems/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/261104/leetcode-problems/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/261104/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/261104/leetcode-problems/tree/master/0875-koko-eating-bananas) |
@@ -114,4 +115,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/261104/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/261104/leetcode-problems/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
