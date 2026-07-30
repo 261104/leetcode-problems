@@ -28,6 +28,7 @@
 | [0013-roman-to-integer](https://github.com/261104/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/261104/leetcode-problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/261104/leetcode-problems/tree/master/0268-missing-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/261104/leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/261104/leetcode-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Recursion
 |  |
@@ -108,6 +109,7 @@
 | [0013-roman-to-integer](https://github.com/261104/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/261104/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/261104/leetcode-problems/tree/master/0125-valid-palindrome) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/261104/leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/261104/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/261104/leetcode-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String Matching
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/261104/leetcode-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/261104/leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
