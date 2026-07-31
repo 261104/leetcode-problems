@@ -48,6 +48,7 @@
 | [0283-move-zeroes](https://github.com/261104/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/261104/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/261104/leetcode-problems/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/261104/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/261104/leetcode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/261104/leetcode-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/261104/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/261104/leetcode-problems/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/261104/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/261104/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/261104/leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/261104/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -106,6 +108,7 @@
 | [0125-valid-palindrome](https://github.com/261104/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/261104/leetcode-problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/261104/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/261104/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
