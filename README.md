@@ -28,12 +28,14 @@
 | [0013-roman-to-integer](https://github.com/261104/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/261104/leetcode-problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/261104/leetcode-problems/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/261104/leetcode-problems/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/261104/leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/261104/leetcode-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/261104/leetcode-problems/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/261104/leetcode-problems/tree/master/0486-predict-the-winner) |
 ## Array
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 | [0198-house-robber](https://github.com/261104/leetcode-problems/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/261104/leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/261104/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0486-predict-the-winner](https://github.com/261104/leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/261104/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/261104/leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/261104/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -136,6 +139,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/261104/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/261104/leetcode-problems/tree/master/0198-house-robber) |
+| [0486-predict-the-winner](https://github.com/261104/leetcode-problems/tree/master/0486-predict-the-winner) |
 ## Combinatorics
 |  |
 | ------- |
@@ -145,4 +149,8 @@
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/261104/leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/261104/leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/261104/leetcode-problems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
