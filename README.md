@@ -4,6 +4,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/261104/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/261104/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/261104/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -120,6 +121,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/261104/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/261104/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/261104/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/261104/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/261104/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/261104/leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
