@@ -31,6 +31,7 @@
 | [0268-missing-number](https://github.com/261104/leetcode-problems/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/261104/leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/261104/leetcode-problems/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/261104/leetcode-problems/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/261104/leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/261104/leetcode-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Recursion
@@ -58,6 +59,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/261104/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/261104/leetcode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/261104/leetcode-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1406-stone-game-iii](https://github.com/261104/leetcode-problems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/261104/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/261104/leetcode-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/261104/leetcode-problems/tree/master/1539-kth-missing-positive-number) |
@@ -145,6 +147,7 @@
 | [0198-house-robber](https://github.com/261104/leetcode-problems/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/261104/leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/261104/leetcode-problems/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/261104/leetcode-problems/tree/master/1406-stone-game-iii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -159,4 +162,5 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/261104/leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/261104/leetcode-problems/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/261104/leetcode-problems/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
