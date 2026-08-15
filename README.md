@@ -71,6 +71,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/261104/leetcode-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/261104/leetcode-problems/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/261104/leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/261104/leetcode-problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/261104/leetcode-problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/261104/leetcode-problems/tree/master/0268-missing-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/261104/leetcode-problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |
